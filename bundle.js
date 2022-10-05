@@ -5054,7 +5054,7 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			h1 = element("h1");
-    			h1.textContent = "What's on the Menu?";
+    			h1.textContent = "Michael's Drinks List";
     			t1 = space();
     			create_component(search_1.$$.fragment);
     			t2 = space();
