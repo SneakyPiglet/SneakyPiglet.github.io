@@ -1,9 +1,9 @@
 recipes:
-// punch.com
+# punch.com
   - name: Andrew Volk's Hot Toddy
     author: Andrew Volk
     source: PUNCH
-    url: https://punchdrink.com/recipes/andrew-volks-hot-toddy/
+    url: https:#punchdrink.com/recipes/andrew-volks-hot-toddy/
     ingredients:
       - 1 1/2 oz brandy or bourbon
       - 3/4 ounce fresh lemon juice
@@ -37,7 +37,7 @@ recipes:
       - This syrup will keep, refrigerated, for 2 months.
       - Shake thoroughly before using.
       - As a substitute for the cardamom-coriander syrup, Volk recommends using 1/4 ounce St. Elizabeth Allspice Dram and 1 teaspoon of rich simple syrup (2:1, sugar:water).
-// Death & Co - Welcome Home - Fresh & Lively
+# Death & Co - Welcome Home - Fresh & Lively
   - name: Achilles’ Heel
     author: Matthew Belanger
     year: 2018
@@ -1181,7 +1181,7 @@ recipes:
     steps:
       - Pour the seltzer into a Collins glass. Short shake the remaining ingredients with ice for about 5 seconds, then strain into the glass. Fill the glass with ice cubes and garnish with the orange half wheel.
     tags: death & co, fresh & lively, shaken, citrus
-// Death & Co - Welcome Home - Light & Playful
+# Death & Co - Welcome Home - Light & Playful
   - name: Art of Scratching
     author: Al Sotack
     year: 2015
@@ -2297,7 +2297,7 @@ recipes:
     steps:
       - In a shaker, gently muddle the blueberries. Add the remaining ingredients and shake with ice. Double strain into a chilled coupe. No garnish.
     tags: death & co, light & playful, shaken, citrus
-// Death & Co - Welcome Home - Bright & Confident
+# Death & Co - Welcome Home - Bright & Confident
   - name: 15 Minutes of Fame
     author: Eryn Reece
     year: 2014
@@ -3657,7 +3657,7 @@ recipes:
     steps:
       - Combine all the ingredients in a shaker and whip, shaking with a few pieces of crushed ice, just until incorporated. Dump into a tiki mug and fill the glass with crushed ice. Sprinkle some chamomile over the top of the drink and serve with a straw.
     tags: death & co, bright & confident, shaken, citrus
-// Death & Co - Welcome Home - Boozy & Honest
+# Death & Co - Welcome Home - Boozy & Honest
   - name: Aces and Eights
     author: Jarred Weigand
     year: 2016
@@ -4867,7 +4867,7 @@ recipes:
     steps:
      - Stir all the ingredients over ice, then strain into a double old-fashioned glass over 1 large ice cube. Express the orange twist over the drink, then place it in the drink.
     tags: death & co, boozy & honest, stirred
-// Death & Co - Welcome Home - Elegant & Timeless 
+# Death & Co - Welcome Home - Elegant & Timeless 
   - name: 20/20
     author: Jon Armstrong
     year: 2015
@@ -6567,7 +6567,7 @@ recipes:
     steps:
      - Stir all the ingredients over ice, then strain into a chilled Nick & Nora glass. No garnish.
     tags: death & co, elegant & timeless, stirred
-// Death & Co - Welcome Home - Rich & Comforting
+# Death & Co - Welcome Home - Rich & Comforting
   - name: Arethusa
     author: Matthew Belanger
     year: 2019
@@ -6939,7 +6939,7 @@ recipes:
     steps:
      - Working in batches, blend the sugar and milk until the sugar is dissolved. Transfer to a large container. Working in batches, blend the eggs and milk mixture at low speed until the eggs are well blended. Transfer to another container and add the remaining ingredients. Pour the mixture from one container to another a few times until well blended. Funnel into bottles and age in the refrigerator for at least 2 weeks (and up to 2 years!) before serving.
     tags: death & co, rich & comforting, batch
-// Death & Co - Cocktail Codex
+# Death & Co - Cocktail Codex
     - name: Classic Old-Fashioned
       author: 
       year:
@@ -10411,7 +10411,7 @@ recipes:
       steps:
       - Stir all the ingredients with ice, then strain into a double Old-Fashioned glass over 1 large ice cube. Express the lemon twist over the drink, then place it into the drink.
       tags: death & co, stirred
-// Death & Co - Modern Classic Cocktails - Classic and Vintage
+# Death & Co - Modern Classic Cocktails - Classic and Vintage
     - name: 21st Century
       author:
       year:
@@ -11500,7 +11500,7 @@ recipes:
       steps:
       - Shake all the ingredients with 2 ice cubes, then strain into a tiki mug filled with crushed ice. Garnish with the mint sprig.
       tags: death & co, classic, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Gin: Shaken
+# Death & Co - Modern Classic Cocktails - Gin: Shaken
     - name: Anjou Mama
       author: Jillian Vose
       year: 2013
@@ -11933,7 +11933,7 @@ recipes:
       steps:
       - In a shaker, gently muddle the mint leaves and syrup. Add the remaining ingredients and shake with ice, then double strain into a double rocks glass over 1 large ice cube. Garnish with the mint sprig.
       tags: death & co, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Gin: Stirred
+# Death & Co - Modern Classic Cocktails - Gin: Stirred
     - name: Botany of Desire
       author: Brad Farran
       year: 2013
@@ -12334,7 +12334,7 @@ recipes:
       steps:
       - Stir all the ingredients over ice, then strain into a coupe. No garnish.
       tags: death & co, stirred
-// Death & Co - Modern Classic Cocktails - Rum: Shaken
+# Death & Co - Modern Classic Cocktails - Rum: Shaken
     - name: 18th Century
       author: Phil Ward
       year: 2008
@@ -12595,7 +12595,7 @@ recipes:
       steps:
       - Shake all the ingredients with ice, then strain into a highball glass filled with ice cubes. Garnish with the apple fan and serve with a straw.
       tags: death & co, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Rum: Stirred
+# Death & Co - Modern Classic Cocktails - Rum: Stirred
     - name: Amityville
       author: Jillian Vose
       year: 2013
@@ -12868,7 +12868,7 @@ recipes:
       steps:
       - Stir all the ingredients (except the cream) over ice, then strain into a coupe. Float the cream on top. No garnish.
       tags: death & co, stirred
-// Death & Co - Modern Classic Cocktails - Agave: Shaken
+# Death & Co - Modern Classic Cocktails - Agave: Shaken
     - name: AKA Cobbler
       author: Alex Day
       year: 2008
@@ -13343,7 +13343,7 @@ recipes:
       steps:
       - Short shake all the ingredients with 3 ice cubes, then strain into a pilsner glass filled with crushed ice. Garnish with the bitters and the mint sprig and serve with a straw.
       tags: death & co, stirred, citrus
-// Death & Co - Modern Classic Cocktails - Agave: Stirred
+# Death & Co - Modern Classic Cocktails - Agave: Stirred
     - name: Alta california
       author: Alex Day
       year: 2009
@@ -13668,7 +13668,7 @@ recipes:
       steps:
       - Stir all the ingredients over ice, then strain into a coupe. No garnish.
       tags: death & co, stirred
-// Death & Co - Modern Classic Cocktails - Whiskey: Shaken
+# Death & Co - Modern Classic Cocktails - Whiskey: Shaken
     - name: 19th Century
       author: Brian Miller
       year: 2009
@@ -14134,7 +14134,7 @@ recipes:
       steps:
       - Shake all the ingredients with ice, then strain into a highball glass filled with ice cubes. Garnish with the apple slice and serve with a straw.
       tags: death & co, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Whiskey: Stirred
+# Death & Co - Modern Classic Cocktails - Whiskey: Stirred
     - name: B.A.F.
       author: Eryn Reece
       year: 2012
@@ -14410,7 +14410,7 @@ recipes:
       steps:
       - Stir all the ingredients over ice, then strain into a coupe. No garnish.
       tags: death & co, shaken
-// Death & Co - Modern Classic Cocktails - Brandy: Shaken
+# Death & Co - Modern Classic Cocktails - Brandy: Shaken
     - name: Banana Cognac
       author: Tyson Buhler
       year: 2013
@@ -14706,7 +14706,7 @@ recipes:
       steps:
       - Shake all the ingredients with ice, then strain into a coupe. No garnish.
       tags: death & co, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Brandy: Stirred
+# Death & Co - Modern Classic Cocktails - Brandy: Stirred
     - name: Black Magic
       author: Thomas Waugh
       year: 2009
@@ -14927,7 +14927,7 @@ recipes:
       steps:
       - Stir all the ingredients over ice, then strain into a coupe. Garnish with the cherries.
       tags: death & co, stirred
-// Death & Co - Modern Classic Cocktails - Sparkling Cocktails
+# Death & Co - Modern Classic Cocktails - Sparkling Cocktails
     - name: The Bittenbender
       author: Jillian Vose
       year: 2013
@@ -15409,7 +15409,7 @@ recipes:
       steps:
       - Stir all the ingredients (except the champagne) over ice, then strain into a flute. Top with champagne. Garnish with the orange twist.
       tags: death & co, sparkling, stirred
-// Death & Co - Modern Classic Cocktails - Fortified wine Cocktails
+# Death & Co - Modern Classic Cocktails - Fortified wine Cocktails
     - name: Café Sandinista
       author: Joaquín Simó
       year: 2012
@@ -15566,7 +15566,7 @@ recipes:
       steps:
       - Shake all the ingredients with ice, then strain into a double rocks glass over 1 large ice cube. Garnish with the celery stick.
       tags: death & co, low-abv, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Punch
+# Death & Co - Modern Classic Cocktails - Punch
     - name: Arrack Punch
       author: Phil Ward
       year: 2008
@@ -15953,7 +15953,7 @@ recipes:
       steps:
       - In a pitcher, muddle the sugar cubes with the club soda until the sugar is fully broken up. Add the remaining ingredients (except the champagne) and fill the pitcher three-quarters full with ice cubes. Stir until cold, then strain into a punch bowl over 1 large block of ice. Top with the champagne. Garnish with the pineapple wedges and serve with a ladle and punch glasses.
       tags: death & co, punch, sparkling
-// Death & Co - Modern Classic Cocktails - Juleps
+# Death & Co - Modern Classic Cocktails - Juleps
     - name: Aperitivo julep
       author: Alex Day
       year: 2009
@@ -16078,7 +16078,7 @@ recipes:
       steps:
       - Rub the mint around the inside of a julep tin and discard. Fill the tin with crushed ice and add the tequila and syrup. Swizzle briefly, then top with crushed ice. Float the mezcal on top. Grate the side of a cinnamon stick away from the drink to release its aromas, then place the cinnamon and mint bouquet in the center of the ice and serve with a straw.
       tags: death & co, julep, stirred
-// Death & Co - Modern Classic Cocktails - Flips and Fizzes
+# Death & Co - Modern Classic Cocktails - Flips and Fizzes
     - name: Celine Fizz
       author: Phil Ward
       year: 2008
@@ -16235,7 +16235,7 @@ recipes:
       steps:
       - Dry shake all the ingredients (except the club soda), then shake again with ice. Strain into a fizz glass and top with club soda. No garnish.
       tags: death & co, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Swizzles
+# Death & Co - Modern Classic Cocktails - Swizzles
     - name: 6th Street Swizzle
       author: Phil Ward
       year: 2008
@@ -16451,7 +16451,7 @@ recipes:
       steps:
       - Dry shake all the ingredients (except the bitters), then dump into a pilsner glass filled with crushed ice. Swizzle the drink until cold. Add the bitters and swizzle them into the top of the drink. Serve with a straw. No garnish.
       tags: death & co, swizzle, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Multiple Choice
+# Death & Co - Modern Classic Cocktails - Multiple Choice
     - name: Black Market Sling
       author: Phil Ward
       year: 2008
@@ -16523,7 +16523,7 @@ recipes:
       steps:
       - Combine all the ingredients in a wine glass filled with ice cubes and stir until cold. Garnish with the lemon twist.
       tags: death & co, multiple choice, stirred
-// Death & Co - Modern Classic Cocktails - Aquavit
+# Death & Co - Modern Classic Cocktails - Aquavit
     - name: Great Northern
       author: Jessica Gonzalez
       year: 2011
@@ -16584,7 +16584,7 @@ recipes:
       steps:
       - In a shaker, muddle the cucumber wheels. Add the remaining ingredients and shake with ice, then double strain into a double rocks glass over 1 large ice cube. Garnish with the cucumber spear.
       tags: death & co, shaken,, citrus
-// Death & Co - Modern Classic Cocktails - Sazerac Variations
+# Death & Co - Modern Classic Cocktails - Sazerac Variations
     - name: Alembic
       author: Phil Ward
       year: 2008
@@ -16734,7 +16734,7 @@ recipes:
       steps:
       - Stir all the ingredients (except the lemon twist) over ice, then strain into a double rocks glass. Squeeze the lemon twist over the drink and discard. No garnish.
       tags: death & co, sazerac, stirred
-// Death & Co - Modern Classic Cocktails - Negroni Variations
+# Death & Co - Modern Classic Cocktails - Negroni Variations
     - name: Baltasar and Blimunda
       author: Phil Ward
       year: 2008
@@ -16856,7 +16856,7 @@ recipes:
       steps:
       - Stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube. Garnish with the lemon twist.
       tags: death & co, negroni, stirred
-// Death & Co - Modern Classic Cocktails - Daiquiri Variations
+# Death & Co - Modern Classic Cocktails - Daiquiri Variations
     - name: Angus Story Daiquiri
       author: Phil Ward
       year: 2012
@@ -17213,7 +17213,7 @@ recipes:
       steps:
       - Shake all the ingredients with ice, then strain into a coupe. No garnish.
       tags: death & co, daiquiri, shaken, citrus
-// Death & Co - Modern Classic Cocktails - Manhattan Variations
+# Death & Co - Modern Classic Cocktails - Manhattan Variations
     - name: The Black Prince
       author: Phil Ward
       year: 2008
@@ -17404,7 +17404,7 @@ recipes:
       steps:
       - Stir all the ingredients over ice, then strain into a Nick & Nora glass. No garnish.
       tags: death & co, manhattan, stirred
-// Death & Co - Modern  Classic Cocktails - Old-Fashioned Variations
+# Death & Co - Modern  Classic Cocktails - Old-Fashioned Variations
     - name: Conference
       author: Brian Miller
       year: 2008
