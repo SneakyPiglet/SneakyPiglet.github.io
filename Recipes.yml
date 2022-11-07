@@ -255,7 +255,7 @@ recipes:
      - 1 egg white
     steps:
       - Pour the seltzer into a chilled fizz glass. Dry shake the remaining ingredients, then shake again with ice. Double strain into the glass. No garnish.
-    steps: shaken
+    tags: shaken
   - name: Crazy Diamond
     author: Tyson Buhler
     year: 2017
@@ -270,7 +270,7 @@ recipes:
      - 1 teaspoon Luxardo maraschino liqueur
     steps:
       - Pour the sparkling wine into a chilled flute. Shake the remaining ingredients with ice, then double strain into the flute. No garnish.
-    steps: shaken
+    tags: shaken
   - name: Doctor Mindbender
     author: Matthew Belanger
     year: 2019
