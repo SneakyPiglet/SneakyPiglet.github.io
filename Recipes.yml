@@ -1309,7 +1309,6 @@ recipes:
      - ½ ounce Pineapple Gum Syrup
      - "Garnish: 1 mint bouquet and Peychaud's bitters"
     steps:
-      - 
     tags: death & co, light & playful, low-abv, citrus, shaken
   - name: Crime Dog
     author: Tyson Buhler
@@ -6588,7 +6587,7 @@ recipes:
   - name: Bad Sneakers
     author: Tyson Buhler
     year: 2018
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: 
     ingredients:
      - 1½ ounces Suntory Toki Japanese Whisky
@@ -6604,7 +6603,7 @@ recipes:
   - name: Banzai Washout
     author: Alex Jump
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: I'm two for two on making blue-hued cocktails work on the first try. The coconut flakes used as a garnish are the remnants from our coconut-infused campari, which turns them into pretty pink petals. If you haven't made that infusion, you can use regular coconut flakes instead. -AJ
     ingredients:
      - 1½ ounces Spring44 vodka
@@ -6620,7 +6619,7 @@ recipes:
   - name: Bat Country (Cold)
     author: Jonnie Long
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: I love Vietnamese coffee, both hot and cold, so I wanted to translate its flavors into a drink that could also be served at either temperature. -JL
     ingredients:
      - ¾ ounce Pierre Ferrand ambré cognac
@@ -6636,7 +6635,7 @@ recipes:
   - name: Bat Country (Hot)
     author: Jonnie Long
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: I love Vietnamese coffee, both hot and cold, so I wanted to translate its flavors into a drink that could also be served at either temperature. -JL
     ingredients:
      - ¾ ounce Pierre Ferrand ambré cognac
@@ -6651,7 +6650,7 @@ recipes:
   - name: Brose Collins
     author: Tyson Buhler
     year: 2018
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: I loved root beer floats as a kid, and I wanted to do a cocktail in that style. The grain-based whiskey, rice-based sake, and oat sorbet all blend together really well to create a creamy, tart dessert cocktail. -TB
     ingredients:
      - 1 ounce cold seltzer
@@ -6666,7 +6665,7 @@ recipes:
   - name: Bum Leg
     author: Adam Griggs
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: This is probably my most conceptually driven cocktail. I went to the British Virgin Islands on vacation with my girlfriend and her family, and I learned that her mother’s favorite cocktail is the resort classic Lime in a Coconut. When we got back home, I decided to create a tiki-style drink in her honor. The drink is named after her thirty-pound cat. -AG
     ingredients:
      - 1 ounce Plantation Barbados 5-year rum
@@ -6684,7 +6683,7 @@ recipes:
   - name: Catamaran
     author: Shannon Tebay
     year: 2018
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: 
     ingredients:
      - 1½ ounces Bimini gin
@@ -6700,7 +6699,7 @@ recipes:
   - name: Chartreuse Alexander
     author: Jon Armstrong
     year: 2015
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: Back when we had a “redemption” menu of maligned classic drinks, I wanted to revisit the Brandy Alexander, adding a good amount of Chartreuse. -JA
     ingredients:
      - ¾ ounce green Chartreuse
@@ -6715,7 +6714,7 @@ recipes:
   - name: Clay Pigeons
     author: Tyson Buhler
     year: 2018
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: 
     ingredients:
      - 3 ounces hot brewed coffee
@@ -6729,7 +6728,7 @@ recipes:
   - name: Echo Chamber
     author: Jeremy Oertel
     year: 2016
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: 
     ingredients:
      - 1½ ounces Calle 23 blanco tequila
@@ -6746,7 +6745,7 @@ recipes:
   - name: Echo Spring
     author: Sam Johnson
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: This fall tiki drink came on the heels of reworking the gardenia mix, which is essentially a spiced honey-butter syrup. On your first sip, the cocktail tastes like apple butter, and it finishes dry and very tart, so it begs you to keep drinking, like a good Daiquiri. -SJ
     ingredients:
      - 1 ¼ ounces Domaine du Manoir de Montreuil Selection calvados
@@ -6763,7 +6762,7 @@ recipes:
   - name: Lamplighter Inn
     author: Alex Jump
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: We're always trying to figure out how to repurpose waste at the bar. Death & Co. Denver sells a lot of coffee in the morning and afternoon, so we have a ton of spent coffee grounds that we use to make a damn fine syrup. The syrup stars in this nonalcoholic drink, which tastes like an old-school malt soda. -AJ
     ingredients:
      - 1½ ounces cold seltzer
@@ -6778,7 +6777,7 @@ recipes:
   - name: Little Coconut
     author: George Nunez
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: 
     ingredients:
      - 1 ounce Rittenhouse rye
@@ -6796,7 +6795,7 @@ recipes:
   - name: Sabrosa
     author: Jarred Weigand
     year: 2017
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: I was really into the cool combination of celery and coconut, so I worked it into this fun piña colada variation. Green Chartreuse is a perfect fit with celery, and tequila rounds it all out. Sabrosa is Spanish for "tasty"-and the name of a groovy Beastie Boys instrumental track. -JW
     ingredients:
      - 1½ ounces Siembra Valles Blanco tequila
@@ -6812,7 +6811,7 @@ recipes:
   - name: Sleepy Gary Fizz
     author: Matt Hunt
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: I threw so many names at Tyson for this drink, and I couldn't believe he went for this one. I learned a trick from a bartender at the NoMad restaurant, who told me that you can add dairy to a citrus cocktail if you include a green tea infusion, which keeps the dairy from breaking. -MH
     ingredients:
      - 2 ounces cold seltzer
@@ -6828,7 +6827,7 @@ recipes:
   - name: Slow Hand
     author: Alex Jump
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: We had a ton of Paul Beau at the bar; few people come to Death & Co. and order a glass of super-expensive cognac. So I used it to create something lush, creamy, and nutty—a good after-dinner drink, but still citrusy and refreshing. -AJ
     ingredients:
      - 1 ounce Paul Beau Hors d'Age cognac
@@ -6844,7 +6843,7 @@ recipes:
   - name: Southern Nights
     author: Alex Jump
     year: 2018
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: Developing this drink was such a pain in the ass. Originally, I wanted to make something that tasted like drinking a carrot cake. I love peanuts and sherry together, and I've worked a lot with peanut-infused sherry, so I tried pairing it with carrot eau de-vie, but I couldn't get it to work. This drink taught me that sometimes you have to let go of what you want a drink to be and just allow it to show you what it wants to be. So l swapped in cognac, but it was boring and flat. Tyson suggested adding a little aquavit, and suddenly-finally-it worked. -AJ
     ingredients:
      - ¾ ounce Pierre Ferrand ambré cognac
@@ -6860,7 +6859,7 @@ recipes:
   - name: Space Cowboy
     author: Jarred Weigand
     year: 2019
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: One of the bartenders had used a blend of crème de pêche and menthe-pastille in a cocktail, and someone got overexcited and made 3 quarts of the batch, so we had tons of it left over. I developed this drink so we could use it up. I love the way peach, mint, and dill go together, and the Elijah Craig picks up the dill perfectly. For texture and tang, I added Greek yogurt. The name is a nod to the Steve Miller Band, but I also think this drink is way out there. -JW
     ingredients:
      - 1½ ounces Elijah Craig 12-year bourbon
@@ -6876,7 +6875,7 @@ recipes:
   - name: Sundance Kid
     author: Tyson Buhler
     year: 2015
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: This was the first drink where we used the green chile vodka from St. George, a distillery we absolutely love, and the combination of chiles and coconut works great in a creamy, refreshing cocktail. -TB
     ingredients:
      - 1 ounce Del Maguey Vida mezcal
@@ -6892,7 +6891,7 @@ recipes:
   - name: Sunshine Gun Club
     author: Jon Armstrong
     year: 2016
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: There are only a few classic drinks made with orange juice—including the mimosa, the Monkey Gland, and the screwdriver—so there's not a lot of fertile ground for inspiration. So I found my muse in an Orange Julius, taking the flavors of the frozen treat and "adultifying" them. -JA
     ingredients:
      - 3 ounces fresh orange juice
@@ -6908,7 +6907,7 @@ recipes:
   - name: Sunshine Lady
     author: Al Sotack
     year: 2014
-    source: "Death & Co: Welcome Homme"
+    source: "Death & Co: Welcome Home"
     notes: 
     ingredients:
      - 1¾ ounces Kilbeggan Irish whiskey
@@ -6924,10 +6923,10 @@ recipes:
   - name: Vintage Eggnog
     author: Tyson Buhler
     year: 2015
-    source: "Death & Co: Welcome Homme"
-    notes: 
-     - I'm still haunted by the experience of cracking hundreds of eggs, and blending gallons of dairy and pounds of sugar for these batches. Though it does make me smile a little bit knowing that the Death & Co. New York team is suffering through the same prep every holiday season, our guests would crucify us if we didn't put it on the menu. Due to high demand, it's tough for us to keep up with the long aging process, but if you have the patience, let this nog age for a few months, and the flavor and texture will change drastically over time. -TB
-     - Makes about 30 cocktails.
+    source: "Death & Co: Welcome Home"
+    notes: |
+      I'm still haunted by the experience of cracking hundreds of eggs, and blending gallons of dairy and pounds of sugar for these batches. Though it does make me smile a little bit knowing that the Death & Co. New York team is suffering through the same prep every holiday season, our guests would crucify us if we didn't put it on the menu. Due to high demand, it's tough for us to keep up with the long aging process, but if you have the patience, let this nog age for a few months, and the flavor and texture will change drastically over time. -TB
+      Makes about 30 cocktails.
     ingredients:
      - 50 ounces white sugar
      - 30 ounces whole milk
@@ -7684,9 +7683,8 @@ recipes:
     tags: death & co, 
   - name: Manhattan
     author: 
-    year: A Manhattan is basically a Martini that uses rye whiskey rather than gin, and sweet vermouth rather than dry. The yang to the Martini's yin, it nicely demonstrates how altering one element of a cocktail generally calls for other adjustments. Aged spirits, especially higher-proof ones, need to be paired with modifiers that can support their intensity without being smothered. If we were to simply substitute rye whiskey for gin in a Martini, the rye would overshadow the vermouth. Classic Angostura bitters connect the peppery rye and sweet vermouth, and offer yet another avenue for exploration, as you'll see in some of the variations that follow.
+    notes: A Manhattan is basically a Martini that uses rye whiskey rather than gin, and sweet vermouth rather than dry. The yang to the Martini's yin, it nicely demonstrates how altering one element of a cocktail generally calls for other adjustments. Aged spirits, especially higher-proof ones, need to be paired with modifiers that can support their intensity without being smothered. If we were to simply substitute rye whiskey for gin in a Martini, the rye would overshadow the vermouth. Classic Angostura bitters connect the peppery rye and sweet vermouth, and offer yet another avenue for exploration, as you'll see in some of the variations that follow.
     source: "Death & Co: Cocktail Codex"
-    notes: 
     ingredients: 
     - 2 ounces Rittenhouse rye 
     - 1 ounce Cocchi Vermouth di Torino
@@ -8316,8 +8314,8 @@ recipes:
     - In a shaker, gently muddle the mint with the simple syrup. Add the remaining ingredients and shake with ice. Strain into a double Old-Fashioned glass over 1 large ice cube. Garnish with the mint sprig.
     tags: death & co, shaken, citrus
   - name: Pompadour
-    author: 2015
-    year: Tyson Buhler
+    year: 2015
+    author: Tyson Buhler
     source: "Death & Co: Cocktail Codex"
     notes: |
       The Pompadour explores another way to riff on a Basic Sour: by incorporating a low-ABV 
@@ -9408,9 +9406,8 @@ recipes:
     tags: death & co, stirred, classic
   - name: Kir Royale
     author: 
-    year: Another avenue for exploring Highball variations based on sparkling wines is to use fruit liqueur as a flavoring; just be careful not to add too much and oversweeten the drink. The classic Kir Royale strikes the right balance by using a restrained amount of crème de cassis, a black currant liqueur that retains the bright acidity of the fruit. That acidity makes it versatile for mixing, since it contributes both sweetness and sourness alongside its juicy fruit flavor. Although Champagne is traditional in this drink, Crémant de Bourgogne would also work well, and don't hesitate to venture farther afield, exploring the countless possibilities for pairing liqueurs with sparkling wines.
+    notes: Another avenue for exploring Highball variations based on sparkling wines is to use fruit liqueur as a flavoring; just be careful not to add too much and oversweeten the drink. The classic Kir Royale strikes the right balance by using a restrained amount of crème de cassis, a black currant liqueur that retains the bright acidity of the fruit. That acidity makes it versatile for mixing, since it contributes both sweetness and sourness alongside its juicy fruit flavor. Although Champagne is traditional in this drink, Crémant de Bourgogne would also work well, and don't hesitate to venture farther afield, exploring the countless possibilities for pairing liqueurs with sparkling wines.
     source: "Death & Co: Cocktail Codex"
-    notes: 
     ingredients: 
     - ½ ounce Gabriel Boudier Crème de Cassis de Dijon 
     - 5½ ounces cold, dry Champagne
@@ -9740,9 +9737,8 @@ recipes:
     tags: death & co, heated, classic, stirred
   - name: Golden Cadillac
     author: 
-    year: The classic Golden Cadillac is another chip off the Grasshopper block, with the vanilla and licorice flavors of the Galliano taking the cocktail in a different direction. A shaving of dark chocolate atop the drink accents the liqueur, drawing out some of its pleasantly bitter qualities.
+    notes: The classic Golden Cadillac is another chip off the Grasshopper block, with the vanilla and licorice flavors of the Galliano taking the cocktail in a different direction. A shaving of dark chocolate atop the drink accents the liqueur, drawing out some of its pleasantly bitter qualities.
     source: "Death & Co: Cocktail Codex"
-    notes: 
     ingredients: 
     - 1 ounce Galliano l'Autentico 
     - 1 ounce Giffard white crème de cacao
@@ -17315,8 +17311,7 @@ recipes:
     - Shake all the ingredients with ice, then strain into a coupe. Garnish with the lime wedge.
     tags: death & co, daiquiri, shaken, citrus
   - name: Thomas’s Daiquiri
-    author: 
-    year: Thomas Waugh
+    author: Thomas Waugh
     source: "Death & Co: Modern Classic Cocktails"
     notes: 
     ingredients:
